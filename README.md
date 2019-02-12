@@ -1,0 +1,1 @@
+Some notes I've taken for the functional programming book
